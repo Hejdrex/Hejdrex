@@ -1,4 +1,5 @@
-##👋 Hi, I’m @Hejdrex
+👋 Hi, I’m @Hejdrex
+===================
 - 👀 I’m interested in api's
 - 🌱 I’m currently learning python/c#/c
 
