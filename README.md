@@ -1,0 +1,8 @@
+##👋 Hi, I’m @Hejdrex
+- 👀 I’m interested in api's
+- 🌱 I’m currently learning python/c#/c
+
+<!---
+Hejdrex/Hejdrex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
