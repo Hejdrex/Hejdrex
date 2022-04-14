@@ -5,6 +5,7 @@
 
 🤮 **I'm not good at coding**
 -------------------------
+!(nyan-cat.gif)
 
 <!---
 Hejdrex/Hejdrex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
