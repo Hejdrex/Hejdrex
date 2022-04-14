@@ -1,7 +1,7 @@
 👋 **Hi, I’m @Hejdrex**
 ===================
->>- 👀 I’m interested in api's
->>- 🌱 I’m currently learning python/c#/c
+>- 👀 I’m interested in api's
+>- 🌱 I’m currently learning python/c#/c
 
 🤮 **I'm not good at coding**
 -------------------------
